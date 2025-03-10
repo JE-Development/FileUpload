@@ -1,0 +1,3 @@
+logs aufräumen (frontedn backend) (paar Infos können bleiben) (error mit Kontext, zb error bei email und angemeldeter Nutzer anzeigen für Rücksprache)
+duplizierter code verienen in klassen
+ordnerstruktur
